@@ -14,6 +14,8 @@ class Good
   end
 end
 
+# adding a comment
+
 coin = Good.new(:coin, [], [:coin, 1], 1, :bank)
 
 wheat = Good.new(:wheat, [], [:wheat, 1], 120, :field)
